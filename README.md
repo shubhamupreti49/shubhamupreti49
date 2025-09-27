@@ -1,7 +1,13 @@
 ### Hi there, I'm Shubham Upreti 👋
 *Aspiring Research Analyst | Economics and Data Science Major | Quantitative and Market Analysis*
 
-I'm an Economics and Data Science student at Franklin & Marshall College with a passion for applying quantitative methods to solve complex financial and economic problems. I thrive at the intersection of data driven analysis and strategic thinking.
+I'm an Economics and Data Science student at Franklin & Marshall College with a passion for applying quantitative methods to solve complex financial and economic problems. 
+
+![R-programming](https://github.com/user-attachments/assets/5cfd5471-a6f2-4ae3-9e11-681b7cff1cce)
+
+I thrive at the intersection of data driven analysis and strategic thinking.
+
+
 
 ---
 
