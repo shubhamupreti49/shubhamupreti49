@@ -48,7 +48,7 @@ I'm an Economics and Data Science student at Franklin & Marshall College with a 
 <details>
   <summary><strong>Monetary Policy Summer Analyst @ Central Bank of Nepal</strong></summary>
   
-  - Managed a banking portfolio of 17 commercial banks to build interactive central bank dashboards in Tableau.
+  - Created comparative dashboards of 10 years of fiscal and monetary policy in Tableau.
   - Published econometric research on Monetary Policy Transmission using SVAR modeling in R on a 13-year macroeconomic dataset.
   - Conducted cross-country financial analysis comparing interest rate structures across 5+ Asian economies using Python.
 </details>
