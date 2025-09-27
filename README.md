@@ -39,10 +39,7 @@ I'm an Economics and Data Science student at Franklin & Marshall College with a 
   <a href="https://github.com/shubhamupreti49/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=shubhamupreti49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubham's GitHub Stats" />
   </a>
-  <a href="https://github.com/shubhamupreti49/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?shubhamupreti49=shubhamupreti49&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-  </a>
-</p>
+
 
 ---
 
