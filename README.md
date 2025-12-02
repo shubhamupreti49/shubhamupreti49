@@ -37,15 +37,6 @@ I thrive at the intersection of data driven analysis and strategic thinking.
   </a>
 </p>
 
----
-
-### 📈 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/shubhamupreti49/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhamupreti49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubham's GitHub Stats" />
-  </a>
-
 
 ---
 
